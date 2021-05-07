@@ -1,3 +1,3 @@
 # frontend
 
-This is bootstrap tutorial
+This is bootstrap tutorials
